@@ -1,2 +1,2 @@
 # Python-Modules
-Learn Numpy, Pandas, Matplotlib, Seaborn, Tkinter, Flask.
+Learn Numpy, Pandas, Matplotlib, Seaborn, Tkinter, Flask and Django
